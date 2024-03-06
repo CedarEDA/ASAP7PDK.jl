@@ -1,7 +1,7 @@
 name = "ASAP7PDK"
 uuid = "68451d9d-dee8-4953-9213-4e693cae3dc0"
 authors = ["Pepijn de Vos <pepijn.devos@juliahub.com>"]
-version = "0.1.0"
+version = "0.1.1"
 
 [deps]
 CMC = "db13d295-e716-48aa-bdca-f6cce3d4ecc6"
