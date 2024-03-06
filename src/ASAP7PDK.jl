@@ -1,4 +1,4 @@
-module asap7
+module ASAP7PDK
 
 module asap7_tt
     using CedarSim
@@ -39,4 +39,4 @@ function get_module(name::String)
 end
 
 
-end # module asap7
+end # module ASAP7PDK
