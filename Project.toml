@@ -1,6 +1,6 @@
 name = "ASAP7PDK"
 uuid = "5f726cbb-fb92-4cd0-9fae-dbb64c46e42b"
-version = "0.1.1"
+version = "0.2.0"
 path = "cedar/ASAP7PDK.jl"
 
 [deps]
