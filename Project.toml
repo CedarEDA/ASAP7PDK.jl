@@ -1,7 +1,7 @@
 name = "ASAP7PDK"
 uuid = "5f726cbb-fb92-4cd0-9fae-dbb64c46e42b"
-authors = ["Pepijn de Vos <pepijn.devos@juliahub.com>"]
 version = "0.1.1"
+path = "cedar/ASAP7PDK.jl"
 
 [deps]
 CMC = "db13d295-e716-48aa-bdca-f6cce3d4ecc6"

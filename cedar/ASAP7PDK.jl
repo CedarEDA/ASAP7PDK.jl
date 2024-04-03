@@ -4,7 +4,7 @@ module asap7_tt
     using CedarSim
     using CMC: bsimcmg107
     sp"""
-    .include "../models/hspice/7nm_TT.pm"
+    .include "../models/hspice/7nm_TT_160803.pm"
     """
 end
 
@@ -12,7 +12,7 @@ module asap7_ff
     using CedarSim
     using CMC: bsimcmg107
     sp"""
-    .include "../models/hspice/7nm_FF.pm"
+    .include "../models/hspice/7nm_FF_160803.pm"
     """
 end
 
@@ -20,7 +20,7 @@ module asap7_ss
     using CedarSim
     using CMC: bsimcmg107
     sp"""
-    .include "../models/hspice/7nm_SS.pm"
+    .include "../models/hspice/7nm_SS_160803.pm"
     """
 end
 
